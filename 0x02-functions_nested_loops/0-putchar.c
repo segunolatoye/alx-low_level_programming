@@ -1,9 +1,10 @@
 #include "main.h"
-/*
- * Importing main.h
- * main.h as _putchar included as a header file
- * Created by Segun Olatoye
+/**
+ * main - Entry point
+ * Description: prints '_putchar \n'
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	_putchar('_');
