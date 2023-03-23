@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_most_numbers - Print only few numbers
- * Description: Function to omit some numbers 
+ * Description: Function to omit some numbers
  */
 
 void print_most_numbers(void)
